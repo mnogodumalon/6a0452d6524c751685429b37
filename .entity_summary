@@ -1,0 +1,3 @@
+- Einträge (eintraege): titel[string/text], beschreibung[string/textarea], datum[date/date]
+- Verknüpfungen (verknuepfungen): eintrag_referenz[applookup/select], notizen[string/textarea], status[lookup/select]
+  → eintrag_referenz links to app_id 6a0452bf70744be84f3f782c
